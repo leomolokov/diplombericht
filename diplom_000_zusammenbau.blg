@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: diplom_000_zusammenbau.aux
+A level-1 auxiliary file: diplom_00_referat.aux
+A level-1 auxiliary file: diplom_05_begriffeunddefinitionen.aux
+A level-1 auxiliary file: diplom_10_abkuerzungen.aux
+A level-1 auxiliary file: diplom_15_einfuehrung.aux
+A level-1 auxiliary file: diplom_20_anwendungsbereich.aux
+A level-1 auxiliary file: diplom_25_softwareentwicklung.aux
+A level-1 auxiliary file: diplom_30_oekonomie.aux
+A level-1 auxiliary file: 80-conclusion.aux
+A level-1 auxiliary file: 81-biblio.aux
+The style file: gost780u.bst
+Database file #1: diplom_000_zusammenbau.bib
+I was expecting a `,' or a `}'---line 17 of file diplom_000_zusammenbau.bib
+ :  
+ :  language =     "russian"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 35 of file diplom_000_zusammenbau.bib
+ :  
+ :  language =     "russian"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Autodesk"
+Warning--I didn't find a database entry for "learnpython3"
+You've used 2 entries,
+            2674 wiz_defined-function locations,
+            661 strings with 5945 characters,
+and the built_in function-call counts, 668 in all, are:
+= -- 84
+> -- 8
+< -- 2
++ -- 4
+- -- 2
+* -- 20
+:= -- 75
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 40
+empty$ -- 75
+format.name$ -- 4
+if$ -- 183
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 0
+newline$ -- 22
+num.names$ -- 4
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 12
+swap$ -- 28
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 4
+width$ -- 3
+write$ -- 43
+(There were 2 error messages)
