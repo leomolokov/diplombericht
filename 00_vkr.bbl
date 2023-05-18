@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{murray1996encyclopedia}
+\selectlanguageifdefined{english}
+\BibEmph{Murray,~James~D}. Encyclopedia of graphics file formats~/
+  James~D~Murray, William~VanRyper~// \BibEmph{Sebastopol: O'Reilly}. ---
+\newblock 1996.
+
+\bibitem{ukoloff}
+\selectlanguageifdefined{english}
+\BibEmph{Уколов,~Станислав~Сергеевич}.
+  Разработка алгоритмов оптимальной
+  маршрутизации инструмента для САПР
+  управляющих программ машин листовой
+  резки с ЧПУ: диссертация на соискание
+  ученой степени кандидата технических
+  наук: 05.13. 12: Ph.D. thesis~/ б. и. ---
+\newblock 2021.
+
+\bibitem{qualification}
+\selectlanguageifdefined{english}
+\BibEmph{Костин,~Л.А.} Квалификационный
+  справочник должностей руководителей,
+  специалистов и других служащих~/
+  Л.А.~Костин~// \BibEmph{М: ЮРИТИ-ДАНА}. ---
+\newblock 2014.
+
+\bibitem{gantt}
+\selectlanguageifdefined{english}
+\BibEmph{Кларк,~У}. Графики Ганта. Учёт и
+  планирование работы. 5-е издание~/ У~Кларк~//
+  \BibEmph{Москва:{\guillemotleft}Техника управления}.
+  ---
+\newblock 1931.
+
+\end{thebibliography}
