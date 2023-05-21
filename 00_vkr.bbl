@@ -26,11 +26,6 @@ Scalable Vector Graphics (SVG) Tiny 1.2 Specification~/ Ola~Andersson,
 \BibEmph{AutoCAD,~Autodesk}. DXF Reference. ---
 \newblock 2012.
 
-\bibitem{ascher2004learning}
-\selectlanguageifdefined{english}
-\BibEmph{Ascher,~David}. Learning Python~/ David~Ascher, Mark~Lutz. ---
-\newblock O'Reilly, 2004.
-
 \bibitem{ukoloff}
 \selectlanguageifdefined{english}
 \BibEmph{Уколов,~Станислав~Сергеевич}.
@@ -41,6 +36,16 @@ Scalable Vector Graphics (SVG) Tiny 1.2 Specification~/ Ola~Andersson,
   ученой степени кандидата технических
   наук: 05.13.12: Ph.D. thesis~/ б. и. ---
 \newblock 2021.
+
+\bibitem{ascher2004learning}
+\selectlanguageifdefined{english}
+\BibEmph{Ascher,~David}. Learning Python~/ David~Ascher, Mark~Lutz. ---
+\newblock O'Reilly, 2004.
+
+\bibitem{lutz2001programming}
+\selectlanguageifdefined{english}
+\BibEmph{Lutz,~Mark}. Programming python~/ Mark~Lutz. ---
+\newblock " O'Reilly Media, Inc.", 2001.
 
 \bibitem{qualification}
 \selectlanguageifdefined{english}
