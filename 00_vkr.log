@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  22 MAY 2023 04:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  22 MAY 2023 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2761,8 +2761,19 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [53] [54] [55])
-[56] [57]
+) [53] [54] [55]
+Underfull \hbox (badness 1502) in paragraph at lines 307--308
+[]\T2A/cmr/bx/n/14.4 <<__init.py__>>\T2A/cmr/m/n/14.4 . ‘айл ини^^?ци^^?а^^?ли^
+^?за^^?ции, при^^?зван^^?ный за^^?пу^^?стить
+ []
+
+[56]
+<figures/filestruktur.png, id=870, 545.03625pt x 277.78781pt>
+File: figures/filestruktur.png Graphic file (type png)
+<use figures/filestruktur.png>
+Package pdftex.def Info: figures/filestruktur.png  used on input line 321.
+(pdftex.def)             Requested size: 469.47052pt x 239.27432pt.
+) [57 <./figures/filestruktur.png>]
 \openout2 = `35_wirtsch.aux'.
 
  (./35_wirtsch.tex
@@ -2777,13 +2788,13 @@ Underfull \hbox (badness 3919) in paragraph at lines 1--1
 
 
 ] [59] [60] [61] [62] [63] [64]
-<figures/projektaufgaben.png, id=928, 534.28178pt x 426.73714pt>
+<figures/projektaufgaben.png, id=931, 534.28178pt x 426.73714pt>
 File: figures/projektaufgaben.png Graphic file (type png)
 <use figures/projektaufgaben.png>
 Package pdftex.def Info: figures/projektaufgaben.png  used on input line 145.
 (pdftex.def)             Requested size: 469.47052pt x 374.98938pt.
  [65] [66 <./figures/projektaufgaben.png>]
-<figures/gantt.png, id=941, 1013.50072pt x 368.23286pt>
+<figures/gantt.png, id=944, 1013.50072pt x 368.23286pt>
 File: figures/gantt.png Graphic file (type png)
 <use figures/gantt.png>
 Package pdftex.def Info: figures/gantt.png  used on input line 176.
@@ -2794,7 +2805,7 @@ Overfull \vbox (24.45439pt too high) has occurred while \output is active []
 
 
 [68 <./figures/gantt.png>] [69]
-<figures/netzkompakt.png, id=962, 562.35094pt x 272.51813pt>
+<figures/netzkompakt.png, id=965, 562.35094pt x 272.51813pt>
 File: figures/netzkompakt.png Graphic file (type png)
 <use figures/netzkompakt.png>
 Package pdftex.def Info: figures/netzkompakt.png  used on input line 227.
@@ -3062,13 +3073,13 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `00_vkr.out' has not changed.
-(rerunfilecheck)             Checksum: 9D6CF3D1D0382C6FC3E2BD1C58A68BBA;10098.
+(rerunfilecheck)             Checksum: 9BF7CA94988BF3A031679DB6D7BCF698;10098.
  ) 
 Here is how much of TeX's memory you used:
- 44425 strings out of 476047
- 986875 string characters out of 5794246
+ 44434 strings out of 476047
+ 987101 string characters out of 5794246
  1910242 words of memory out of 5000000
- 63487 multiletter control sequences out of 15000+600000
+ 63494 multiletter control sequences out of 15000+600000
  522671 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,18n,111p,1941b,2379s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3087,10 +3098,10 @@ nts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
 public/cm-super/sfrm1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-
 super/sfrm1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti
 1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on 00_vkr.pdf (85 pages, 883672 bytes).
+Output written on 00_vkr.pdf (85 pages, 906746 bytes).
 PDF statistics:
- 1238 PDF objects out of 1440 (max. 8388607)
- 1074 compressed objects within 11 object streams
- 489 named destinations out of 1000 (max. 500000)
- 474 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1241 PDF objects out of 1440 (max. 8388607)
+ 1076 compressed objects within 11 object streams
+ 490 named destinations out of 1000 (max. 500000)
+ 479 words of extra memory for PDF output out of 10000 (max. 10000000)
 

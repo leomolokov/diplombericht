@@ -32,5 +32,5 @@
 \contentsline {subsection}{\numberline {3.4.2}Расчёты и анализ}{78}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}Выводы по результатам расчётов.}{82}{subsection.3.4.3}%
 \contentsline {section}{\numberline {3.5}Выводы по главе \ref {cha:wirtsch}}{83}{section.3.5}%
-\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{84}{section*.16}%
-\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{85}{section*.17}%
+\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{84}{section*.17}%
+\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{85}{section*.18}%
