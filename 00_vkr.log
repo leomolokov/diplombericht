@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  22 MAY 2023 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  22 MAY 2023 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2225,7 +2225,7 @@ Package: xparse 2023-02-02 L3 Experimental document command parser
 
 pdfTeX warning: pdflatex.exe (file ./formulare/titelCM.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<formulare/titelCM.pdf, id=180, 597.55246pt x 845.07718pt>
+<formulare/titelCM.pdf, id=184, 597.55246pt x 845.07718pt>
 File: formulare/titelCM.pdf Graphic file (type pdf)
 <use formulare/titelCM.pdf>
 Package pdftex.def Info: formulare/titelCM.pdf  used on input line 17.
@@ -2246,7 +2246,7 @@ nd PDF version <1.6>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./formulare/titelCM.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<formulare/titelCM.pdf, id=183, page=1, 597.55246pt x 845.07718pt>
+<formulare/titelCM.pdf, id=187, page=1, 597.55246pt x 845.07718pt>
 File: formulare/titelCM.pdf Graphic file (type pdf)
 <use formulare/titelCM.pdf, page 1>
 Package pdftex.def Info: formulare/titelCM.pdf , page1 used on input line 17.
@@ -2554,19 +2554,19 @@ Underfull \hbox (badness 2285) in paragraph at lines 263--264
  []
 
 [23] [24]
-<figures/arcgeom.png, id=452, 288.07625pt x 202.7575pt>
+<figures/arcgeom.png, id=457, 288.07625pt x 202.7575pt>
 File: figures/arcgeom.png Graphic file (type png)
 <use figures/arcgeom.png>
 Package pdftex.def Info: figures/arcgeom.png  used on input line 298.
 (pdftex.def)             Requested size: 234.73526pt x 165.2196pt.
  [25 <./figures/arcgeom.png (PNG copy)>]
-<figures/arcchord.png, id=465, 684.5575pt x 226.8475pt>
+<figures/arcchord.png, id=470, 684.5575pt x 226.8475pt>
 File: figures/arcchord.png Graphic file (type png)
 <use figures/arcchord.png>
 Package pdftex.def Info: figures/arcchord.png  used on input line 334.
 (pdftex.def)             Requested size: 469.47052pt x 155.5765pt.
  [26] [27 <./figures/arcchord.png (PNG copy)>]
-<figures/epsilon.png, id=486, 264.99pt x 240.9pt>
+<figures/epsilon.png, id=491, 264.99pt x 240.9pt>
 File: figures/epsilon.png Graphic file (type png)
 <use figures/epsilon.png>
 Package pdftex.def Info: figures/epsilon.png  used on input line 369.
@@ -2585,7 +2585,7 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 ) [33]
-<figures/primiviewscheme.png, id=571, 402.00188pt x 235.63031pt>
+<figures/primiviewscheme.png, id=576, 402.00188pt x 235.63031pt>
 File: figures/primiviewscheme.png Graphic file (type png)
 <use figures/primiviewscheme.png>
 Package pdftex.def Info: figures/primiviewscheme.png  used on input line 527.
@@ -2726,14 +2726,14 @@ Underfull \hbox (badness 4967) in paragraph at lines 4--5
 
 
 ] [41]
-<figures/organisationsdiagramm.png, id=648, 414.04688pt x 286.82156pt>
+<figures/organisationsdiagramm.png, id=653, 414.04688pt x 286.82156pt>
 File: figures/organisationsdiagramm.png Graphic file (type png)
 <use figures/organisationsdiagramm.png>
 Package pdftex.def Info: figures/organisationsdiagramm.png  used on input line 
 40.
 (pdftex.def)             Requested size: 375.57784pt x 260.18085pt.
  [42] [43 <./figures/organisationsdiagramm.png>]
-<figures/classes.png, id=665, 539.01375pt x 381.56839pt>
+<figures/classes.png, id=670, 539.01375pt x 381.56839pt>
 File: figures/classes.png Graphic file (type png)
 <use figures/classes.png>
 Package pdftex.def Info: figures/classes.png  used on input line 68.
@@ -2773,7 +2773,7 @@ Underfull \hbox (badness 1502) in paragraph at lines 369--370
  []
 
 [58]
-<figures/filestruktur.png, id=929, 545.03625pt x 277.78781pt>
+<figures/filestruktur.png, id=934, 545.03625pt x 277.78781pt>
 File: figures/filestruktur.png Graphic file (type png)
 <use figures/filestruktur.png>
 Package pdftex.def Info: figures/filestruktur.png  used on input line 383.
@@ -2800,45 +2800,70 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 ) [61]
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [62]) [63]
+) [62] [63] [64]
+<figures/uiraw.png, id=1022, 778.91pt x 630.355pt>
+File: figures/uiraw.png Graphic file (type png)
+<use figures/uiraw.png>
+Package pdftex.def Info: figures/uiraw.png  used on input line 530.
+(pdftex.def)             Requested size: 469.47052pt x 379.928pt.
+
+[65]
+<figures/opendxf.png, id=1029, 759.83875pt x 625.33624pt>
+File: figures/opendxf.png Graphic file (type png)
+<use figures/opendxf.png>
+Package pdftex.def Info: figures/opendxf.png  used on input line 543.
+(pdftex.def)             Requested size: 469.47052pt x 386.37814pt.
+ [66 <./figures/uiraw.png (PNG copy)>]
+<figures/visualize.png, id=1037, 758.835pt x 624.3325pt>
+File: figures/visualize.png Graphic file (type png)
+<use figures/visualize.png>
+Package pdftex.def Info: figures/visualize.png  used on input line 552.
+(pdftex.def)             Requested size: 469.47052pt x 386.26286pt.
+ [67 <./figures/opendxf.png (PNG copy)>]
+<figures/selectfolder.png, id=1045, 758.835pt x 623.32875pt>
+File: figures/selectfolder.png Graphic file (type png)
+<use figures/selectfolder.png>
+Package pdftex.def Info: figures/selectfolder.png  used on input line 561.
+(pdftex.def)             Requested size: 469.47052pt x 385.64186pt.
+ [68 <./figures/visualize.png (PNG copy)>]) [69 <./figures/selectfolder.png (PN
+G copy)>]
 \openout2 = `35_wirtsch.aux'.
 
-
-(./35_wirtsch.tex
+ (./35_wirtsch.tex
 Underfull \hbox (badness 3919) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Экономическое обос^^?но^^?ва^^?ние эф^^?фек^^?тив^^?но^^?
 сти
  []
 
-[64
+[70
 
 
 
 
-] [65] [66] [67] [68] [69] [70]
-<figures/projektaufgaben.png, id=1066, 534.28178pt x 426.73714pt>
+] [71] [72] [73] [74] [75] [76]
+<figures/projektaufgaben.png, id=1109, 534.28178pt x 426.73714pt>
 File: figures/projektaufgaben.png Graphic file (type png)
 <use figures/projektaufgaben.png>
 Package pdftex.def Info: figures/projektaufgaben.png  used on input line 145.
 (pdftex.def)             Requested size: 469.47052pt x 374.98938pt.
- [71] [72 <./figures/projektaufgaben.png>]
-<figures/gantt.png, id=1079, 1013.50072pt x 368.23286pt>
+ [77] [78 <./figures/projektaufgaben.png>]
+<figures/gantt.png, id=1123, 1013.50072pt x 368.23286pt>
 File: figures/gantt.png Graphic file (type png)
 <use figures/gantt.png>
 Package pdftex.def Info: figures/gantt.png  used on input line 176.
 (pdftex.def)             Requested size: 657.25586pt x 238.80911pt.
 
-[73]
+[79]
 Overfull \vbox (24.45439pt too high) has occurred while \output is active []
 
 
-[74 <./figures/gantt.png>] [75]
-<figures/netzkompakt.png, id=1100, 562.35094pt x 272.51813pt>
+[80 <./figures/gantt.png>] [81]
+<figures/netzkompakt.png, id=1144, 562.35094pt x 272.51813pt>
 File: figures/netzkompakt.png Graphic file (type png)
 <use figures/netzkompakt.png>
 Package pdftex.def Info: figures/netzkompakt.png  used on input line 227.
 (pdftex.def)             Requested size: 469.47052pt x 227.50816pt.
- [76]
+ [82]
 Overfull \hbox (5.73271pt too wide) in paragraph at lines 238--238
 []|\T2A/cmr/m/n/14.4 Продолж. 
  []
@@ -2894,7 +2919,7 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 245--270
 [] [] [] [] 
  []
 
-[77 <./figures/netzkompakt.png>] [78]
+[83 <./figures/netzkompakt.png>] [84]
 Underfull \hbox (badness 10000) in paragraph at lines 278--278
 []|\T2A/cmr/m/n/14.4 Предш.
  []
@@ -2924,7 +2949,7 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 285--307
 [] [] [] 
  []
 
-[79] [80]
+[85] [86]
 Overfull \hbox (25.19998pt too wide) in alignment at lines 334--341
 [] [] 
  []
@@ -2949,7 +2974,7 @@ Overfull \hbox (25.19998pt too wide) in alignment at lines 347--354
 [] [] 
  []
 
-[81] [82]
+[87] [88]
 Overfull \hbox (12.0pt too wide) in alignment at lines 386--393
 [] [] [] 
  []
@@ -2989,7 +3014,7 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 399--410
 [] [] [] 
  []
 
-[83] [84] [85] [86]
+[89] [90] [91] [92]
 Overfull \hbox (16.59271pt too wide) in alignment at lines 569--577
 [] [] [] [] [] 
  []
@@ -3054,10 +3079,10 @@ Overfull \hbox (16.59271pt too wide) in alignment at lines 583--602
 [] [] [] [] [] 
  []
 
-[87] [88]) [89]
+[93] [94]) [95]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [90
+ (./80-conclusion.tex) [96
 
 
 
@@ -3083,7 +3108,7 @@ Underfull \hbox (badness 5696) in paragraph at lines 52--57
  должностей
  []
 
-)) [91
+)) [97
 
 
 
@@ -3101,13 +3126,13 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `00_vkr.out' has not changed.
-(rerunfilecheck)             Checksum: 663A9BC8C25DC172C2779804C3A1D752;10575.
+(rerunfilecheck)             Checksum: 92E2A7A1B0D5875C20A6F7A8F6F7AF5E;10876.
  ) 
 Here is how much of TeX's memory you used:
- 44773 strings out of 476047
- 991716 string characters out of 5794246
+ 44817 strings out of 476047
+ 992586 string characters out of 5794246
  1953242 words of memory out of 5000000
- 63724 multiletter control sequences out of 15000+600000
+ 63753 multiletter control sequences out of 15000+600000
  522671 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,21n,111p,1941b,2573s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3126,10 +3151,10 @@ nts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
 public/cm-super/sfrm1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-
 super/sfrm1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti
 1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on 00_vkr.pdf (91 pages, 935843 bytes).
+Output written on 00_vkr.pdf (97 pages, 1077968 bytes).
 PDF statistics:
- 1396 PDF objects out of 1440 (max. 8388607)
- 1223 compressed objects within 13 object streams
- 585 named destinations out of 1000 (max. 500000)
- 495 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1441 PDF objects out of 1728 (max. 8388607)
+ 1258 compressed objects within 13 object streams
+ 596 named destinations out of 1000 (max. 500000)
+ 523 words of extra memory for PDF output out of 10000 (max. 10000000)
 
