@@ -76,12 +76,11 @@
 
 На первой итерации осуществляется разбиение блоков, в которых могут быть <<спрятаны>> остальные сущности. В случае, если пропустить данный этап, то объекты, находящиеся внутри блоков не будут видны библиотекой \textit{ezdxf}, которая используется для чтения DXF-файлов.
 
-После <<разрушения>> всех блоков примитивы становятся <<видимыми>>. Далее запускается цикл, итерирующий объекты пространства объектов модели (\textit{modelspace}). В случае совпадения объекта с одной из поддерживаемых сущностей, она сохраняется в список соответствующих объектов в оперативной памяти программы. Списком далее будет называться изменяемый упорядоченный тип данных, представляющих собой последовательность элементов, разделённых между собой запятой и заключённых в квадратные скобки. Данный тип данных используется в ЯП Python, поэтому для соблюдения общности, термин будет применяться и в части \ref{sec:software} этого раздела.
+После <<разрушения>> всех блоков примитивы становятся <<видимыми>>. Далее запускается цикл, итерирующий объекты пространства объектов модели (\textit{modelspace}). В случае совпадения объекта с одной из поддерживаемых сущностей, она сохраняется в список соответствующих объектов в оперативной памяти программы. Списком далее будет называться изменяемый упорядоченный тип данных, представляющих собой последовательность элементов, разделённых между собой запятой и заключённых в квадратные скобки. Данный тип данных используется в ЯП Python.
 
 Примем ряд условных обозначений:
 
-$msp$ --- пространство объектов модели (modelspace);
-
+$\rightsquigarrow$ --- запись в файл;
 $\dashrightarrow$ --- запись объекта в множество.
 
 
@@ -122,24 +121,17 @@ $\dashrightarrow$ --- запись объекта в множество.
 
 \begin{algorithm}[H]
 	\SetAlgoLined
-	\KwData{путь к имя.txt}
+	\KwData{данные из DXF, путь к имя.txt}
 	\KwResult{имя.txt (как DXF)}
 	инициализация;
-	
-	\For{$\forall$ LINE $\in$ множ. линий}{записать в файл: атрибут сущности, $x_0, y_0$, $x_1, y_1$; перевести курсор на новую строку}
-	
-	\For{$\forall$ ARC $\in$ множ. дуг}{записать в файл: атрибут сущности, $x_0, y_0$, $x_1, y_1$, $r$; перевести курсор на новую строку}
-	
-	\For{$\forall$ CIRCLE $\in$ множ. окруж.}{записать в файл: атрибут сущности, $x_c, y_c$, $r$; перевести курсор на новую строку}
-	
-	\For{$\forall$ LWPOLYLINE $\in$ множ. полилин.}{записать в файл атрибут сущности;
-		
-		\For{$\forall$ точки LWPOLYLINE}{
-			
-			\For{$\forall$ координаты x, y}{записать в файл значение координаты}
-		}
-		перевести курсор на новую строку}
-	\caption{Запись примитивов в TXT (как DXF)}
+	\ForEach{LINE}{атрибут сущности, $x_0, y_0$, $x_1, y_1 \rightsquigarrow$имя.txt}
+	\ForEach{ARC}{атрибут сущности, $x_0, y_0$, $x_1, y_1$, $r\rightsquigarrow$имя.txt}
+	\ForEach{CIRCLE}{атрибут сущности, $x_c, y_c$, $r\rightsquigarrow$имя.txt}
+	\ForEach{LWPOLYLINE}{атрибут сущности;\\
+		\ForEach{LWPOLYLINE}{
+			\ForEach{координата}{координата$\rightsquigarrow$имя.txt}
+		}}
+	\caption{Запись примитивов в TXT (DXF-type)}
 	\label{alg:dxfintotxt}
 \end{algorithm}
 
@@ -196,15 +188,9 @@ Z --- конечная точка.
 	\label{alg:polyarcrad}
 \end{algorithm}
 
-Примем условные обозначения:
-
-$\rightsquigarrow$ --- запись в файл;
-
-$newline$ --- перевод на новую строку.
-
 \begin{algorithm}[H]
 	\SetAlgoLined	
-	\KwData{путь к имя.txt}
+	\KwData{данные из DXF, путь к имя.txt}
 	\KwResult{имя.txt (x,y,r)}	
 	\ForEach{LINE $\in$ множ. линий}{$x_0 \quad y_0 \quad 0\rightsquigarrow$ имя.txt; \quad $x_1 \quad y_1 \quad 0 \rightsquigarrow$ имя.txt}
 	
@@ -307,7 +293,7 @@ $newline$ --- перевод на новую строку.
 	\KwData{список Полилиний с lwpoints у каждой}
 	\KwResult{линия/дуга}
 	инициализация;
-	\ForEach{полилинии}{
+	\ForEach{POLYLINE}{
 		\ForEach{текущая т., след. т.}{
 			\If{$bulge=0$}{рисуй линию с соотв. коор.}
 			\Else{
@@ -319,7 +305,7 @@ $newline$ --- перевод на новую строку.
 			}
 		}
 	}
-	\caption{Разбиение полилиний}
+	\caption{Разбиение полилиний для визуализ. primiview}
 	\label{alg:polytolinearcs}
 \end{algorithm}
 
@@ -358,6 +344,82 @@ $newline$ --- перевод на новую строку.
 	\label{alg:angle_vectors}
 \end{algorithm}
 
+Итак, алгоритм \ref{alg:svg} --- формирование SVG-файла.
+
+\begin{algorithm}[H]
+	\SetAlgoLined
+	\KwData{путь к имя.svg}
+	\KwResult{имя.svg}
+	инициализация;\\
+	открой имя.svg\\
+	преамбула (см. раздел \ref{subs:svg}) $\rightsquigarrow$ имя.svg\\
+	\ForEach{LINE}{$x_0, y_0\rightsquigarrow$ имя.svg\\
+		$x_1, y_1\rightsquigarrow$имя.svg}
+	\ForEach{ARC}{
+	размер дуги = малая, поворот дуги = по час.\\
+	\If{$(\alpha_1-\alpha_0) / 360 > 180$}{размер дуги = большая}
+	$x_0, y_0, r\rightsquigarrow$ имя.svg\\
+	размер дуги, поворот дуги,$x_1, y_1\rightsquigarrow$имя.svg
+	}
+	\ForEach{CIRCLE}{$x_c, y_c, r\rightsquigarrow$ имя.svg}
+	\ForEach{POLYLINE}{список points\\
+		\ForEach{LWPOINT}{points$\dashrightarrow$список points}
+		\ForEach{point}{$point_0, point_1 \rightsquigarrow$имя.svg}
+	}
+	\caption{Запись примитивов в SVG}
+	\label{alg:svg}
+\end{algorithm}
+
+Алгоритм, совмещенный из \ref{alg:json}, \ref{alg:json1}, используется для создания JSON-файла с содержанием из исходного DXF.
+
+\begin{algorithm}[H]
+	\SetAlgoLined
+	\KwData{путь к имя.json}
+	\KwResult{имя.json}
+	инициализация;\\
+	список path\\
+	\ForEach{LINE}{список linepath; [$x_0, y_0, 0$]$\rightsquigarrow$linepath; linepath$\rightsquigarrow$path}
+	\ForEach{ARC}{список arcpath; $(\alpha=\alpha_1-\alpha_0)/360$\\
+	\If{$\alpha = 180^\circ$}{
+		\If{$\alpha_0>\alpha_1$}{$bulge=-1$}
+			\Else{$bulge=1$}}
+	\If{$\alpha=90^\circ$}{\If{$\alpha_0>\alpha_1$}{$bulge=-(\sqrt{2}-1)$} \Else{$bulge=\sqrt{2}-1$}}
+	\Else{$bulge=\tan(\frac{\frac{\alpha\cdot\pi}{180^\circ}}{4})$}
+
+	$x_0, y_0, bulge\dashrightarrow$arcpath\\
+	$x_1, y_1, 0\dashrightarrow$arcpath\\
+	arcpath$\rightsquigarrow$path ...(Продолжение на след. стр.)
+	}
+	\caption{Запись примитивов в JSON}
+	\label{alg:json}
+\end{algorithm}
+
+\begin{algorithm}[H]
+	\SetAlgoLined
+	\ForEach{CIRCLE}{
+	список circlepath;\\
+	$x_c+r,y_c,1\dashrightarrow$circlepath\tcc*{первая половина окр.}
+	$x_c-r,y_c,1\dashrightarrow$circlepath;\\
+	$x_c-r,y_c,1\dashrightarrow$circlepath\tcc*{вторая половина окр.}
+	$x_c+r,y_c,1\dashrightarrow$circlepath
+	}
+	\ForEach{POLYLINE}{
+	список polypath;
+	пред.т.=None\\
+		\ForEach{LWPOINT}{
+			\If{пред.т.$\neq None$}{
+			$\text{пред.т.}_0,\text{пред.т.}_1, bulge\dashrightarrow$polypath\\
+			$LWPOINT_0,LWPOINT_1, 0\dashrightarrow$polypath}
+		пред.т.=LWPOINT}
+		\If{контур закрыт}{
+		координаты посл.т., $bulge\dashrightarrow$polypath\\
+		координаты перв.т., $0\dashrightarrow$polypath
+		}
+	polypath$\rightsquigarrow$path
+	}
+	\caption{Запись примитивов в JSON (продолжение)}
+	\label{alg:json1}
+\end{algorithm}
 
 \section{Разработка программного обеспечения}
 Разработка программы начинается на создании структуры взаимосвязи её файлов, на их предназначении.
@@ -618,12 +680,62 @@ DXF конвертируется в TXT(x,y,r). Часть результата 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=1.0\textwidth]{figures/all_arcs_svg.png}
-	\captionof{figure}{Результат конвертации тестового DXF с дугами в TXT(x,y,r)}
+	\captionof{figure}{Результат конвертации тестового DXF с дугами в SVG}
 	\label{fig:all_arcs_svg}
 \end{figure}
 
 Ширина линий не учитывается конвертером в SVG, что возможно исправить в дальнейшей проработке программы.
 
+Последний из доступных в приложении типов конвертации --- в формат JSON. Верификация в данном случае производится с помощью утилиты, разработанной к.т.н. Уколовым С.С. \cite{ukoloff} и находящейся в открытом доступе (см. рисунок ).
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1.0\textwidth]{figures/all_arcs_json.png}
+	\captionof{figure}{Результат конвертации тестового DXF с дугами в JSON}
+	\label{fig:all_arcs_json}
+\end{figure}
+
+Как можно заметить, сравнивая рисунки \ref{fig:all_arcs_autocad} и \ref{fig:all_arcs_dxftype}, одна дуга отрисована некорректно. В данном случае, проблема заключается в утилите чтения JSON-формата. То есть в визуализаторе JSON не предусмотрена проверка направления отрисовки дуг, угол раствора которых равен $180^\circ$ (о данной проблеме сообщено разработчику).
+
+Полный текст сконвертированного файла JSON приведён в приложении \ref{cha:appendix1}, листинг \ref{lst:all_arcs_json}.
+
+На рисунках \ref{fig:tests} приведён пример конвертации тестового задания заказчика.
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}[h]{0.3\linewidth}
+		\center{\includegraphics[width=1.0\textwidth]{figures/test10dxf.png} \\ а) AutoCAD}
+	\end{minipage}
+	%\hfill
+	\begin{minipage}[h]{0.6\linewidth}
+		\center{\includegraphics[width=1.0\textwidth]{figures/test10primiview.png} \\ б) primiview}
+	\end{minipage}
+	%\hfill
+	\begin{minipage}[h]{0.4\linewidth}
+		\center{\includegraphics[width=1.0\textwidth]{figures/test10dxftype.png} \\ в) TXT(DXF-type)}
+	\end{minipage}
+	%\hfill
+	\begin{minipage}[h]{0.4\linewidth}
+		\center{\includegraphics[width=1.0\textwidth]{figures/test10xyr.png} \\ г) TXT(x,y,r)}
+	\end{minipage}
+	%\hfill
+	\begin{minipage}[h]{0.4\linewidth}
+		\center{\includegraphics[width=1.0\textwidth]{figures/test10svg.png} \\ д) SVG}
+	\end{minipage}
+		%\hfill
+	\begin{minipage}[h]{0.4\linewidth}
+		\center{\includegraphics[width=1.0\textwidth]{figures/test10json.png} \\ е) JSON}
+	\end{minipage}
+	\caption{Проверка работоспособности primiview на тестовом примере заказчика}
+	\label{fig:tests}
+\end{figure}
 
 \section{Выводы по главе \ref{cha:entwickl}}
-fsfgsdfs
+
+\begin{enumerate}[1)]
+	\item Разработана архитектура приложения primiview, объединяющего конвертеры из DXF в TXT(DXF-type), TXT(x,y,r), SVG, JSON;
+	\item Решена задача внутренней репрезентации информации в программе primiview, извлекаемой из DXF. Применён принцип объектно-ориентированного программирования по применению классов;
+	\item Разработаны алгоритмы для реализации в приложении primiview. Найдены математические подходы к обработке параметра \textit{<<bulge>>};
+	\item Разработано приложение primiview. Создана файловая структура программы. Разработан простой пользовательский интерфейс;
+	\item Проведено тестирование программного обеспечения. Конвертация производится корректно для всех типов поддерживаемых объектов.
+\end{enumerate}

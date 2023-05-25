@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  24 MAY 2023 17:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  26 MAY 2023 02:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2555,19 +2555,19 @@ Underfull \hbox (badness 2285) in paragraph at lines 263--264
  []
 
 [23]
-<figures/arcgeom.png, id=460, 288.07625pt x 202.7575pt>
+<figures/arcgeom.png, id=459, 288.07625pt x 202.7575pt>
 File: figures/arcgeom.png Graphic file (type png)
 <use figures/arcgeom.png>
 Package pdftex.def Info: figures/arcgeom.png  used on input line 298.
 (pdftex.def)             Requested size: 234.73526pt x 165.2196pt.
  [24] [25 <./figures/arcgeom.png (PNG copy)>]
-<figures/arcchord.png, id=477, 684.5575pt x 226.8475pt>
+<figures/arcchord.png, id=476, 684.5575pt x 226.8475pt>
 File: figures/arcchord.png Graphic file (type png)
 <use figures/arcchord.png>
 Package pdftex.def Info: figures/arcchord.png  used on input line 334.
 (pdftex.def)             Requested size: 469.47052pt x 155.5765pt.
  [26] [27 <./figures/arcchord.png (PNG copy)>]
-<figures/epsilon.png, id=498, 264.99pt x 240.9pt>
+<figures/epsilon.png, id=497, 264.99pt x 240.9pt>
 File: figures/epsilon.png Graphic file (type png)
 <use figures/epsilon.png>
 Package pdftex.def Info: figures/epsilon.png  used on input line 369.
@@ -2585,7 +2585,7 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 ) [33]
-<figures/primiviewscheme.png, id=583, 402.00188pt x 235.63031pt>
+<figures/primiviewscheme.png, id=582, 402.00188pt x 235.63031pt>
 File: figures/primiviewscheme.png Graphic file (type png)
 <use figures/primiviewscheme.png>
 Package pdftex.def Info: figures/primiviewscheme.png  used on input line 527.
@@ -2726,59 +2726,57 @@ Underfull \hbox (badness 4967) in paragraph at lines 4--5
 
 
 ] [41]
-<figures/organisationsdiagramm.png, id=660, 414.04688pt x 286.82156pt>
+<figures/organisationsdiagramm.png, id=659, 414.04688pt x 286.82156pt>
 File: figures/organisationsdiagramm.png Graphic file (type png)
 <use figures/organisationsdiagramm.png>
 Package pdftex.def Info: figures/organisationsdiagramm.png  used on input line 
 40.
 (pdftex.def)             Requested size: 375.57784pt x 260.18085pt.
  [42] [43 <./figures/organisationsdiagramm.png>]
-<figures/classes.png, id=677, 539.01375pt x 381.56839pt>
+<figures/classes.png, id=676, 539.01375pt x 381.56839pt>
 File: figures/classes.png Graphic file (type png)
 <use figures/classes.png>
 Package pdftex.def Info: figures/classes.png  used on input line 68.
 (pdftex.def)             Requested size: 469.47052pt x 332.34607pt.
- [44]
-
-LaTeX Warning: Reference `sec:software' on page 45 undefined on input line 79.
-
-[45 <./figures/classes.png>] [46] [47]
+ [44] [45 <./figures/classes.png>] [46]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 117.
-
-(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
+nput line 116.
+ (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [48] [49]
-(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
+)
+[47] [48] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
 
-LaTeX Warning: Reference `sec:allaboutdxf' on page 50 undefined on input line 1
-65.
+LaTeX Warning: Reference `sec:allaboutdxf' on page 49 undefined on input line 1
+57.
 
-[50] [51]
+[49] [50]
 Overfull \vbox (51.25455pt too high) has occurred while \output is active []
 
 
-[52] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
+[51] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [53] [54] [55]
-[56] [57]
-Underfull \hbox (badness 1502) in paragraph at lines 369--370
+) [52] [53] [54]
+[55] [56] [57] [58] [59]
+Overfull \vbox (54.18526pt too high) has occurred while \output is active []
+
+
+[60] [61]
+Underfull \hbox (badness 1502) in paragraph at lines 431--432
 []\T2A/cmr/bx/n/14.4 <<__init.py__>>\T2A/cmr/m/n/14.4 . Файл ини^^?ци^^?а^^?ли^
 ^?за^^?ции, при^^?зван^^?ный за^^?пу^^?стить
  []
 
-[58]
-<figures/filestruktur.png, id=941, 545.03625pt x 277.78781pt>
+<figures/filestruktur.png, id=1042, 545.03625pt x 277.78781pt>
 File: figures/filestruktur.png Graphic file (type png)
 <use figures/filestruktur.png>
-Package pdftex.def Info: figures/filestruktur.png  used on input line 383.
+Package pdftex.def Info: figures/filestruktur.png  used on input line 445.
 (pdftex.def)             Requested size: 469.47052pt x 239.27432pt.
- [59] (c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
+[62] (c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 (c:/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
@@ -2786,8 +2784,8 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 )
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [60 <./figures/filestruktur.png>]
-Underfull \hbox (badness 2951) in paragraph at lines 410--411
+) [63 <./figures/filestruktur.png>]
+Underfull \hbox (badness 2951) in paragraph at lines 472--473
 []\T2A/cmr/m/n/14.4 В це^^?лом, па^^?ра^^?мет^^?ры, за^^?да^^?ю^^?щие гео^^?мет
 ^^?рию че^^?рез биб^^?лио^^?те^^?ку
  []
@@ -2797,67 +2795,109 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [61]
+) [64]
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [62] [63] [64]
-<figures/uiraw.png, id=1029, 778.91pt x 630.355pt>
+) [65] [66] [67]
+<figures/uiraw.png, id=1130, 778.91pt x 630.355pt>
 File: figures/uiraw.png Graphic file (type png)
 <use figures/uiraw.png>
-Package pdftex.def Info: figures/uiraw.png  used on input line 530.
+Package pdftex.def Info: figures/uiraw.png  used on input line 592.
 (pdftex.def)             Requested size: 469.47052pt x 379.928pt.
 
-[65]
-<figures/opendxf.png, id=1036, 759.83875pt x 625.33624pt>
+[68]
+<figures/opendxf.png, id=1137, 759.83875pt x 625.33624pt>
 File: figures/opendxf.png Graphic file (type png)
 <use figures/opendxf.png>
-Package pdftex.def Info: figures/opendxf.png  used on input line 543.
+Package pdftex.def Info: figures/opendxf.png  used on input line 605.
 (pdftex.def)             Requested size: 469.47052pt x 386.37814pt.
- [66 <./figures/uiraw.png (PNG copy)>]
-<figures/visualize.png, id=1044, 758.835pt x 624.3325pt>
+ [69 <./figures/uiraw.png (PNG copy)>]
+<figures/visualize.png, id=1145, 758.835pt x 624.3325pt>
 File: figures/visualize.png Graphic file (type png)
 <use figures/visualize.png>
-Package pdftex.def Info: figures/visualize.png  used on input line 552.
+Package pdftex.def Info: figures/visualize.png  used on input line 614.
 (pdftex.def)             Requested size: 469.47052pt x 386.26286pt.
- [67 <./figures/opendxf.png (PNG copy)>]
-<figures/selectfolder.png, id=1052, 758.835pt x 623.32875pt>
+ [70 <./figures/opendxf.png (PNG copy)>]
+<figures/selectfolder.png, id=1152, 758.835pt x 623.32875pt>
 File: figures/selectfolder.png Graphic file (type png)
 <use figures/selectfolder.png>
-Package pdftex.def Info: figures/selectfolder.png  used on input line 561.
+Package pdftex.def Info: figures/selectfolder.png  used on input line 623.
 (pdftex.def)             Requested size: 469.47052pt x 385.64186pt.
- [68 <./figures/visualize.png (PNG copy)>]
-<figures/all_arcs_autocad.png, id=1059, 1332.98pt x 620.3175pt>
+ [71 <./figures/visualize.png (PNG copy)>]
+<figures/all_arcs_autocad.png, id=1159, 1332.98pt x 620.3175pt>
 File: figures/all_arcs_autocad.png Graphic file (type png)
 <use figures/all_arcs_autocad.png>
-Package pdftex.def Info: figures/all_arcs_autocad.png  used on input line 576.
+Package pdftex.def Info: figures/all_arcs_autocad.png  used on input line 638.
 (pdftex.def)             Requested size: 469.47052pt x 218.46791pt.
- [69 <./figures/selectfolder.png (PNG copy)>]
-<figures/all_arcs_primiview.png, id=1067, 1927.2pt x 1031.855pt>
+ [72 <./figures/selectfolder.png (PNG copy)>]
+<figures/all_arcs_primiview.png, id=1167, 1927.2pt x 1031.855pt>
 File: figures/all_arcs_primiview.png Graphic file (type png)
 <use figures/all_arcs_primiview.png>
-Package pdftex.def Info: figures/all_arcs_primiview.png  used on input line 585
+Package pdftex.def Info: figures/all_arcs_primiview.png  used on input line 647
 .
 (pdftex.def)             Requested size: 469.47052pt x 251.35028pt.
- [70 <./figures/all_arcs_autocad.png (PNG copy)>]
-<figures/all_arcs_dxftype.png, id=1076, 1299.85625pt x 1256.695pt>
+ [73 <./figures/all_arcs_autocad.png (PNG copy)>]
+<figures/all_arcs_dxftype.png, id=1177, 1299.85625pt x 1256.695pt>
 File: figures/all_arcs_dxftype.png Graphic file (type png)
 <use figures/all_arcs_dxftype.png>
-Package pdftex.def Info: figures/all_arcs_dxftype.png  used on input line 596.
+Package pdftex.def Info: figures/all_arcs_dxftype.png  used on input line 658.
 (pdftex.def)             Requested size: 328.62793pt x 317.7013pt.
- [71 <./figures/all_arcs_primiview.png (PNG copy)>]
-<figures/all_arcs_txtxyr.png, id=1090, 1295.84125pt x 654.445pt>
+ [74 <./figures/all_arcs_primiview.png (PNG copy)>]
+<figures/all_arcs_txtxyr.png, id=1191, 1295.84125pt x 654.445pt>
 File: figures/all_arcs_txtxyr.png Graphic file (type png)
 <use figures/all_arcs_txtxyr.png>
-Package pdftex.def Info: figures/all_arcs_txtxyr.png  used on input line 609.
+Package pdftex.def Info: figures/all_arcs_txtxyr.png  used on input line 671.
 (pdftex.def)             Requested size: 328.62793pt x 165.96754pt.
- [72 <./figures/all_arcs_dxftype.png (PNG copy)>]
-<figures/all_arcs_svg.png, id=1099, 1440.88312pt x 787.44188pt>
+ [75 <./figures/all_arcs_dxftype.png (PNG copy)>]
+<figures/all_arcs_svg.png, id=1200, 1440.88312pt x 787.44188pt>
 File: figures/all_arcs_svg.png Graphic file (type png)
 <use figures/all_arcs_svg.png>
-Package pdftex.def Info: figures/all_arcs_svg.png  used on input line 620.
+Package pdftex.def Info: figures/all_arcs_svg.png  used on input line 682.
 (pdftex.def)             Requested size: 469.47052pt x 256.5644pt.
- [73 <./figures/all_arcs_txtxyr.png (PNG copy)> <./figures/all_arcs_svg.png>]) 
-[74]
+ [76 <./figures/all_arcs_txtxyr.png (PNG copy)> <./figures/all_arcs_svg.png>]
+<figures/all_arcs_json.png, id=1210, 1921.1775pt x 1038.88126pt>
+File: figures/all_arcs_json.png Graphic file (type png)
+<use figures/all_arcs_json.png>
+Package pdftex.def Info: figures/all_arcs_json.png  used on input line 693.
+(pdftex.def)             Requested size: 469.47052pt x 253.85442pt.
+<figures/test10dxf.png, id=1216, 373.395pt x 661.47125pt>
+File: figures/test10dxf.png Graphic file (type png)
+<use figures/test10dxf.png>
+Package pdftex.def Info: figures/test10dxf.png  used on input line 707.
+(pdftex.def)             Requested size: 140.84258pt x 249.50453pt.
+<figures/test10primiview.png, id=1217, 758.835pt x 620.3175pt>
+File: figures/test10primiview.png Graphic file (type png)
+<use figures/test10primiview.png>
+Package pdftex.def Info: figures/test10primiview.png  used on input line 711.
+(pdftex.def)             Requested size: 281.68517pt x 230.2711pt.
+<figures/test10dxftype.png, id=1218, 1295.84125pt x 1293.83376pt>
+File: figures/test10dxftype.png Graphic file (type png)
+<use figures/test10dxftype.png>
+Package pdftex.def Info: figures/test10dxftype.png  used on input line 715.
+(pdftex.def)             Requested size: 187.78534pt x 187.49251pt.
+<figures/test10xyr.png, id=1219, 1215.54124pt x 1171.37625pt>
+File: figures/test10xyr.png Graphic file (type png)
+<use figures/test10xyr.png>
+Package pdftex.def Info: figures/test10xyr.png  used on input line 719.
+(pdftex.def)             Requested size: 187.78534pt x 180.95374pt.
+<figures/test10svg.png, id=1220, 1923.185pt x 1041.8925pt>
+File: figures/test10svg.png Graphic file (type png)
+<use figures/test10svg.png>
+Package pdftex.def Info: figures/test10svg.png  used on input line 723.
+(pdftex.def)             Requested size: 187.78534pt x 101.73116pt.
+<figures/test10json.png, id=1221, 1925.1925pt x 1041.8925pt>
+File: figures/test10json.png Graphic file (type png)
+<use figures/test10json.png>
+Package pdftex.def Info: figures/test10json.png  used on input line 727.
+(pdftex.def)             Requested size: 187.78534pt x 101.61987pt.
+[77 <./figures/all_arcs_json.png (PNG copy)>]
+Overfull \vbox (7.09647pt too high) has occurred while \output is active []
+
+
+[78 <./figures/test10dxf.png (PNG copy)> <./figures/test10primiview.png (PNG co
+py)> <./figures/test10dxftype.png (PNG copy)> <./figures/test10xyr.png (PNG cop
+y)> <./figures/test10svg.png (PNG copy)> <./figures/test10json.png (PNG copy)>]
+) [79]
 \openout2 = `35_wirtsch.aux'.
 
  (./35_wirtsch.tex
@@ -2866,35 +2906,35 @@ Underfull \hbox (badness 3919) in paragraph at lines 1--1
 сти
  []
 
-[75
+[80
 
 
 
 
-] [76] [77] [78] [79] [80] [81]
-<figures/projektaufgaben.png, id=1168, 534.28178pt x 426.73714pt>
+] [81] [82] [83] [84] [85] [86]
+<figures/projektaufgaben.png, id=1298, 534.28178pt x 426.73714pt>
 File: figures/projektaufgaben.png Graphic file (type png)
 <use figures/projektaufgaben.png>
 Package pdftex.def Info: figures/projektaufgaben.png  used on input line 145.
 (pdftex.def)             Requested size: 469.47052pt x 374.98938pt.
- [82] [83 <./figures/projektaufgaben.png>]
-<figures/gantt.png, id=1181, 1013.50072pt x 368.23286pt>
+ [87] [88 <./figures/projektaufgaben.png>]
+<figures/gantt.png, id=1311, 1013.50072pt x 368.23286pt>
 File: figures/gantt.png Graphic file (type png)
 <use figures/gantt.png>
 Package pdftex.def Info: figures/gantt.png  used on input line 176.
 (pdftex.def)             Requested size: 657.25586pt x 238.80911pt.
 
-[84]
+[89]
 Overfull \vbox (24.45439pt too high) has occurred while \output is active []
 
 
-[85 <./figures/gantt.png>] [86]
-<figures/netzkompakt.png, id=1201, 562.35094pt x 272.51813pt>
+[90 <./figures/gantt.png>] [91]
+<figures/netzkompakt.png, id=1331, 562.35094pt x 272.51813pt>
 File: figures/netzkompakt.png Graphic file (type png)
 <use figures/netzkompakt.png>
 Package pdftex.def Info: figures/netzkompakt.png  used on input line 227.
 (pdftex.def)             Requested size: 469.47052pt x 227.50816pt.
- [87]
+ [92]
 Overfull \hbox (5.73271pt too wide) in paragraph at lines 238--238
 []|\T2A/cmr/m/n/14.4 Продолж. 
  []
@@ -2950,7 +2990,7 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 245--270
 [] [] [] [] 
  []
 
-[88 <./figures/netzkompakt.png>] [89]
+[93 <./figures/netzkompakt.png>] [94]
 Underfull \hbox (badness 10000) in paragraph at lines 278--278
 []|\T2A/cmr/m/n/14.4 Предш.
  []
@@ -2980,7 +3020,7 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 285--307
 [] [] [] 
  []
 
-[90] [91]
+[95] [96]
 Overfull \hbox (25.19998pt too wide) in alignment at lines 334--341
 [] [] 
  []
@@ -3005,7 +3045,7 @@ Overfull \hbox (25.19998pt too wide) in alignment at lines 347--354
 [] [] 
  []
 
-[92] [93]
+[97] [98]
 Overfull \hbox (12.0pt too wide) in alignment at lines 386--393
 [] [] [] 
  []
@@ -3045,7 +3085,7 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 399--410
 [] [] [] 
  []
 
-[94] [95] [96] [97]
+[99] [100] [101] [102]
 Overfull \hbox (16.59271pt too wide) in alignment at lines 569--577
 [] [] [] [] [] 
  []
@@ -3110,15 +3150,21 @@ Overfull \hbox (16.59271pt too wide) in alignment at lines 583--602
 [] [] [] [] [] 
  []
 
-[98] [99]) [100]
+[103] [104]) [105]
 \openout2 = `80-conclusion.aux'.
 
- (./80-conclusion.tex) [101
+ (./80-conclusion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\T2A/cmr/m/n/14.4 Разработаны кон^^?вер^^?те^^?ры из фор^^?ма^^?та DXF в фор^
+^?ма^^?ты
+ []
+
+[106
 
 
 
 
-]
+]) [107]
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./00_vkr.bbl
@@ -3139,7 +3185,7 @@ Underfull \hbox (badness 5696) in paragraph at lines 52--57
  должностей
  []
 
-)) [102
+)) [108
 
 
 
@@ -3156,7 +3202,7 @@ Underfull \hbox (badness 2197) in paragraph at lines 4--4
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs_dxftype.txt [103
+(./listings/all_arcs_dxftype.txt [109
 
 
 
@@ -3165,14 +3211,18 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs_xyr.txt [104])
+(./listings/all_arcs_xyr.txt [110])
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs.svg [105] [106] [107] [108])) [109] (./00_vkr.aux
-(./05_ref.aux) (./10_def.aux) (./15_abkuerz.aux) (./20_einfuehr.aux)
-(./25_aktuell.aux) (./30_entwickl.aux) (./35_wirtsch.aux) (./80-conclusion.aux)
-(./81-biblio.aux) (./90-appendix1.aux))
+(./listings/all_arcs.svg [111] [112] [113] [114])
+(c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2022/06/11 v1.0e Input encoding file
+)
+(./listings/all_arcs.json [115] [116] [117] [118] [119] [120] [121])) [122]
+(./00_vkr.aux (./05_ref.aux) (./10_def.aux) (./15_abkuerz.aux)
+(./20_einfuehr.aux) (./25_aktuell.aux) (./30_entwickl.aux) (./35_wirtsch.aux)
+(./80-conclusion.aux) (./81-biblio.aux) (./90-appendix1.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -3183,13 +3233,13 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `00_vkr.out' has not changed.
-(rerunfilecheck)             Checksum: 941A5BD81A35D50D6521B1E0D7830E2E;11177.
+(rerunfilecheck)             Checksum: 218A664E5A7DD6489AC5FEE20B9B6A31;11177.
  ) 
 Here is how much of TeX's memory you used:
- 45176 strings out of 476047
- 999289 string characters out of 5794246
+ 45678 strings out of 476047
+ 1007605 string characters out of 5794246
  1953242 words of memory out of 5000000
- 63848 multiletter control sequences out of 15000+600000
+ 63901 multiletter control sequences out of 15000+600000
  523810 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,21n,111p,1941b,2573s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3200,19 +3250,20 @@ st/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-<c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texliv
-e/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2023/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2023/texmf-dist/fo
-nts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
-public/cm-super/sfrm1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-
-super/sfrm1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm
-1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><
-c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on 00_vkr.pdf (109 pages, 1414601 bytes).
+pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/te
+xlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texliv
+e/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2023/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2023/texmf-dist/fo
+nts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
+public/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-
+super/sfrm1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm
+1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><
+c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive
+/2023/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on 00_vkr.pdf (122 pages, 1718865 bytes).
 PDF statistics:
- 1796 PDF objects out of 2073 (max. 8388607)
- 1590 compressed objects within 16 object streams
- 829 named destinations out of 1000 (max. 500000)
- 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2387 PDF objects out of 2487 (max. 8388607)
+ 2154 compressed objects within 22 object streams
+ 1266 named destinations out of 1440 (max. 500000)
+ 591 words of extra memory for PDF output out of 10000 (max. 10000000)
 
