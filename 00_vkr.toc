@@ -30,11 +30,12 @@
 \contentsline {section}{\numberline {3.3}Построение диаграмм проекта}{87}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Диаграмма Ганта}{87}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Сетевой график}{90}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Сравнительная экономическая эффективность}{96}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Исходные данные}{96}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Расчёты и анализ}{99}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Выводы по результатам расчётов.}{103}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Выводы по главе \ref {cha:wirtsch}}{104}{section.3.5}%
-\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{105}{section*.28}%
-\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{107}{section*.29}%
-\contentsline {chapter}{\numberline {\CYRA }Текстовые результаты конвертации}{108}{appendix.A}%
+\contentsline {section}{\numberline {3.4}Расчёт стоимости проекта}{96}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Сравнительная экономическая эффективность}{97}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Исходные данные}{98}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Расчёты и анализ}{101}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Выводы по результатам расчётов.}{105}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Выводы по главе \ref {cha:wirtsch}}{106}{section.3.6}%
+\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{107}{section*.29}%
+\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{109}{section*.30}%
+\contentsline {chapter}{\numberline {\CYRA }Текстовые результаты конвертации}{110}{appendix.A}%

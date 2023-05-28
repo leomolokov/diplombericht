@@ -33,9 +33,22 @@ Scalable Vector Graphics (SVG) Tiny 1.2 Specification~/ Ola~Andersson,
   маршрутизации инструмента для САПР
   управляющих программ машин листовой
   резки с ЧПУ: диссертация на соискание
-  ученой степени кандидата технических
+  учёной степени кандидата технических
   наук: 05.13.12: Ph.D. thesis~/ б. и. ---
 \newblock 2021.
+
+\bibitem{petunin}
+\selectlanguageifdefined{english}
+\BibEmph{Петунин,~Александр~Александрович}.
+  Методологические и теоретические основы
+  автоматизации проектирования раскроя
+  листовых материалов на машинах с числовым
+  программным управлением: диссертация на
+  соискание учёной степени доктора
+  технических наук: 05.13.12: Ph.D. thesis~/ Уфимский
+  государственный авиационно-технический
+  университет. ---
+\newblock 2010.
 
 \bibitem{ascher2004learning}
 \selectlanguageifdefined{english}
@@ -60,7 +73,7 @@ Scalable Vector Graphics (SVG) Tiny 1.2 Specification~/ Ola~Andersson,
 \BibEmph{Кларк,~У.} Графики Ганта. Учёт и
   планирование работы. 5-е издание~/
   У.~Кларк~// \BibEmph{Москва:{\guillemotleft}Техника
-  управления}. ---
+  управления{\guillemotleft}}. ---
 \newblock 1931.
 
 \end{thebibliography}
