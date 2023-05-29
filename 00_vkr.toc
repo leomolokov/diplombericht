@@ -14,28 +14,28 @@
 \contentsline {section}{\numberline {2.2}Принцип работы приложения <<primiview>>}{41}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Внутрепрограммная репрезентация информации о геометрических примитивах}{43}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Разработка алгоритмов}{45}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Разработка программного обеспечения}{60}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Файловая структура}{60}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Модуль визуализации}{61}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Пользовательский интерфейс}{64}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Тестирование работы программы}{70}{subsection.2.5.4}%
-\contentsline {section}{\numberline {2.6}Выводы по главе \ref {cha:entwickl}}{77}{section.2.6}%
-\contentsline {chapter}{\numberline {3}Экономическое обоснование эффективности проекта}{79}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Разработка проекта}{79}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Дерево задач проекта}{82}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Первый уровень иерархии.}{82}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Второй уровень иерархии.}{83}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Третий уровень иерархии.}{83}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Четвёртый уровень иерархии.}{86}{subsection.3.2.4}%
-\contentsline {section}{\numberline {3.3}Построение диаграмм проекта}{87}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Диаграмма Ганта}{87}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Сетевой график}{90}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Расчёт стоимости проекта}{96}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Сравнительная экономическая эффективность}{97}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Исходные данные}{98}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Расчёты и анализ}{101}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Выводы по результатам расчётов.}{105}{subsection.3.5.3}%
-\contentsline {section}{\numberline {3.6}Выводы по главе \ref {cha:wirtsch}}{106}{section.3.6}%
-\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{107}{section*.29}%
-\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{109}{section*.30}%
-\contentsline {chapter}{\numberline {\CYRA }Текстовые результаты конвертации}{110}{appendix.A}%
+\contentsline {section}{\numberline {2.5}Разработка программного обеспечения}{61}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Файловая структура}{61}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Модуль визуализации}{62}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Пользовательский интерфейс}{65}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Тестирование работы программы}{71}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Выводы по главе \ref {cha:entwickl}}{78}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Экономическое обоснование эффективности проекта}{80}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Разработка проекта}{80}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Дерево задач проекта}{83}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Первый уровень иерархии.}{83}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Второй уровень иерархии.}{84}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Третий уровень иерархии.}{84}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Четвёртый уровень иерархии.}{87}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Построение диаграмм проекта}{88}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Диаграмма Ганта}{88}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Сетевой график}{91}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Расчёт стоимости проекта}{97}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Сравнительная экономическая эффективность}{98}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Исходные данные}{99}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Расчёты и анализ}{102}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Выводы по результатам расчётов.}{106}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Выводы по главе \ref {cha:wirtsch}}{107}{section.3.6}%
+\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{108}{section*.29}%
+\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{110}{section*.30}%
+\contentsline {chapter}{\numberline {\CYRA }Текстовые результаты конвертации}{111}{appendix.A}%

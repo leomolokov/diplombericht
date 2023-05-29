@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  28 MAY 2023 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  29 MAY 2023 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2436,55 +2436,55 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 [15] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 ) [16]
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
 []|\T2A/cmr/bx/n/14.4 Также из^^?ве^^?
  []
 
 
-Overfull \hbox (1.35686pt too wide) in paragraph at lines 144--144
+Overfull \hbox (1.35686pt too wide) in paragraph at lines 145--145
 []|\T2A/cmr/bx/n/14.4 Максимальный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\T2A/cmr/bx/n/14.4 Несколько
  []
 
 
-Overfull \hbox (10.10422pt too wide) in paragraph at lines 147--147
+Overfull \hbox (10.10422pt too wide) in paragraph at lines 148--148
 []|\T2A/cmr/bx/n/14.4 Поддерживающ.
  []
 
 
-Overfull \hbox (2.25864pt too wide) in paragraph at lines 148--148
+Overfull \hbox (2.25864pt too wide) in paragraph at lines 149--149
 []|\T2A/cmr/bx/n/14.4 Использование\T2A/cmr/m/n/14.4 :| 
  []
 
 
-Overfull \hbox (4.52948pt too wide) in alignment at lines 136--150
+Overfull \hbox (4.52948pt too wide) in alignment at lines 137--151
 [] [] 
  []
 
 [17] [18]
-Underfull \hbox (badness 2837) in paragraph at lines 166--167
+Underfull \hbox (badness 2837) in paragraph at lines 167--168
 \T2A/cmr/m/n/14.4 W3C. Под^^?дер^^?жи^^?ва^^?ют^^?ся скрип^^?то^^?вые язы^^?ки 
 на ос^^?но^^?ве спе^^?ци^^?фи^^?ка^^?ции
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 []\T2A/cmr/m/n/14.4 SVG-документы лег^^?ко ин^^?те^^?гри^^?ру^^?ют^^?ся с HTML-
 (HyperText
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 \T2A/cmr/m/n/14.4 Markup Language ^^V ѕязык ги^^?пер^^?тек^^?сто^^?вой раз^^?ме
 т^^?киї) и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 \T2A/cmr/m/n/14.4 XHTML-(ExtensibleHTML)документами. Внеш^^?ние SVG под^^?клю^^
 ?ча^^?ют^^?
  []
@@ -2498,35 +2498,41 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 []|\T2A/cmr/bx/n/14.4 Также из^^?ве^^?
  []
 
 
-Overfull \hbox (10.10422pt too wide) in paragraph at lines 239--239
+Overfull \hbox (10.10422pt too wide) in paragraph at lines 240--240
 []|\T2A/cmr/bx/n/14.4 Поддерживающ.
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 239--240
+Underfull \hbox (badness 2452) in paragraph at lines 240--241
 []|\T2A/cmr/m/n/14.4 текстовые ре^^?дак^^?то^^?ры^^?/об^^?зор^^?щи^^?ки, спе^^?
 ци^^?а^^?ли^^?зи^^?ро^^?ван^^?
  []
 
 
-Overfull \hbox (2.25864pt too wide) in paragraph at lines 240--240
+Overfull \hbox (2.25864pt too wide) in paragraph at lines 241--241
 []|\T2A/cmr/bx/n/14.4 Использование\T2A/cmr/m/n/14.4 :| 
  []
 
 
-Overfull \hbox (4.52948pt too wide) in alignment at lines 231--242
+Overfull \hbox (4.52948pt too wide) in alignment at lines 232--243
 [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+[]\T2A/cmr/m/n/14.4 JSON ос^^?но^^?ван на под^^?мно^^?же^^?стве язы^^?ка про^^?
+грам^^?ми^^?ро^^?ва^^?ния
  []
 
 [22] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 ) [23]
-Underfull \hbox (badness 2285) in paragraph at lines 276--277
+Underfull \hbox (badness 2285) in paragraph at lines 282--283
 []\T2A/cmr/m/n/14.4 Дуги мож^^?но опи^^?сы^^?вать раз^^?лич^^?ны^^?ми спо^^?со^
 ^?ба^^?ми. Раз^^?ра^^?бот^^?чи^^?ки
  []
@@ -2535,19 +2541,19 @@ Underfull \hbox (badness 2285) in paragraph at lines 276--277
 <figures/arcgeom.png, id=467, 288.07625pt x 202.7575pt>
 File: figures/arcgeom.png Graphic file (type png)
 <use figures/arcgeom.png>
-Package pdftex.def Info: figures/arcgeom.png  used on input line 311.
+Package pdftex.def Info: figures/arcgeom.png  used on input line 317.
 (pdftex.def)             Requested size: 234.73526pt x 165.2196pt.
  [25 <./figures/arcgeom.png (PNG copy)>] [26]
 <figures/arcchord.png, id=485, 684.5575pt x 226.8475pt>
 File: figures/arcchord.png Graphic file (type png)
 <use figures/arcchord.png>
-Package pdftex.def Info: figures/arcchord.png  used on input line 347.
+Package pdftex.def Info: figures/arcchord.png  used on input line 353.
 (pdftex.def)             Requested size: 469.47052pt x 155.5765pt.
  [27 <./figures/arcchord.png (PNG copy)>]
 <figures/epsilon.png, id=499, 264.99pt x 240.9pt>
 File: figures/epsilon.png Graphic file (type png)
 <use figures/epsilon.png>
-Package pdftex.def Info: figures/epsilon.png  used on input line 382.
+Package pdftex.def Info: figures/epsilon.png  used on input line 388.
 (pdftex.def)             Requested size: 234.73526pt x 213.3968pt.
  [28 <./figures/epsilon.png (PNG copy)>] [29] [30] [31] [32]
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
@@ -2562,126 +2568,126 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 <figures/primiviewscheme.png, id=572, 402.00188pt x 235.63031pt>
 File: figures/primiviewscheme.png Graphic file (type png)
 <use figures/primiviewscheme.png>
-Package pdftex.def Info: figures/primiviewscheme.png  used on input line 536.
+Package pdftex.def Info: figures/primiviewscheme.png  used on input line 542.
 (pdftex.def)             Requested size: 469.47052pt x 275.1758pt.
  [34] [35 <./figures/primiviewscheme.png>]
-Underfull \hbox (badness 1552) in paragraph at lines 567--568
+Underfull \hbox (badness 1552) in paragraph at lines 573--574
 []\T2A/cmr/m/n/14.4 Как уже и бы^^?ло от^^?ме^^?че^^?но, су^^?ще^^?ству^^?ют и 
 дру^^?гие при^^?ми^^?ти^^?вы
  []
 
 [36]
-Overfull \hbox (12.0pt too wide) in alignment at lines 574--581
+Overfull \hbox (12.0pt too wide) in alignment at lines 580--587
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 581--583
+Overfull \hbox (12.0pt too wide) in alignment at lines 587--589
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 583--585
+Overfull \hbox (12.0pt too wide) in alignment at lines 589--591
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 585--587
+Overfull \hbox (12.0pt too wide) in alignment at lines 591--593
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 587--593
+Overfull \hbox (12.0pt too wide) in alignment at lines 593--599
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--603
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
 []|\T2A/cmr/m/n/14.4 Групповой
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 597--604
+Overfull \hbox (12.0pt too wide) in alignment at lines 603--610
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 604--606
+Overfull \hbox (12.0pt too wide) in alignment at lines 610--612
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 606--608
+Overfull \hbox (12.0pt too wide) in alignment at lines 612--614
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 608--610
+Overfull \hbox (12.0pt too wide) in alignment at lines 614--616
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 610--616
+Overfull \hbox (12.0pt too wide) in alignment at lines 616--622
 [] [] 
  []
 
 [37]
-Underfull \hbox (badness 10000) in paragraph at lines 626--626
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
 []|\T2A/cmr/m/n/14.4 Групповой
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 620--627
+Overfull \hbox (12.0pt too wide) in alignment at lines 626--633
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 627--629
+Overfull \hbox (12.0pt too wide) in alignment at lines 633--635
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 629--631
+Overfull \hbox (12.0pt too wide) in alignment at lines 635--637
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 631--633
+Overfull \hbox (12.0pt too wide) in alignment at lines 637--639
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 633--641
+Overfull \hbox (12.0pt too wide) in alignment at lines 639--647
 [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 651--651
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
 []|\T2A/cmr/m/n/14.4 Групповой
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 645--652
+Overfull \hbox (12.0pt too wide) in alignment at lines 651--658
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 652--654
+Overfull \hbox (12.0pt too wide) in alignment at lines 658--660
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 654--656
+Overfull \hbox (12.0pt too wide) in alignment at lines 660--662
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 656--658
+Overfull \hbox (12.0pt too wide) in alignment at lines 662--664
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 658--666
+Overfull \hbox (12.0pt too wide) in alignment at lines 664--672
 [] [] 
  []
 
@@ -2704,59 +2710,83 @@ Underfull \hbox (badness 4967) in paragraph at lines 4--5
 File: figures/organisationsdiagramm.png Graphic file (type png)
 <use figures/organisationsdiagramm.png>
 Package pdftex.def Info: figures/organisationsdiagramm.png  used on input line 
-40.
+49.
 (pdftex.def)             Requested size: 375.57784pt x 260.18085pt.
  [42] [43 <./figures/organisationsdiagramm.png>]
 <figures/classes.png, id=677, 539.01375pt x 381.56839pt>
 File: figures/classes.png Graphic file (type png)
 <use figures/classes.png>
-Package pdftex.def Info: figures/classes.png  used on input line 68.
+Package pdftex.def Info: figures/classes.png  used on input line 77.
 (pdftex.def)             Requested size: 469.47052pt x 332.34607pt.
  [44] [45 <./figures/classes.png>] [46]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 116.
+nput line 128.
  (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-[47] [48] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[48] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-)
+) [49]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-198.
+215.
 
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [49]
+) [50]
 Overfull \vbox (51.25455pt too high) has occurred while \output is active []
 
 
-[50] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
+[51] (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [51] [52] [53]
-[54] [55] [56] [57] [58] [59]
-Underfull \hbox (badness 1502) in paragraph at lines 428--429
+) [52] [53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+[57] [58] [59] [60]
+Underfull \hbox (badness 1502) in paragraph at lines 456--457
 []\T2A/cmr/bx/n/14.4 <<__init.py__>>\T2A/cmr/m/n/14.4 . Файл ини^^?ци^^?а^^?ли^
 ^?за^^?ции, при^^?зван^^?ный за^^?пу^^?стить
  []
 
-<figures/filestruktur.png, id=1017, 545.03625pt x 277.78781pt>
+<figures/filestruktur.png, id=1021, 545.03625pt x 277.78781pt>
 File: figures/filestruktur.png Graphic file (type png)
 <use figures/filestruktur.png>
-Package pdftex.def Info: figures/filestruktur.png  used on input line 444.
+Package pdftex.def Info: figures/filestruktur.png  used on input line 472.
 (pdftex.def)             Requested size: 469.47052pt x 239.27432pt.
-[60] (c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
+[61] (c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 (c:/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-) [61 <./figures/filestruktur.png>] (c:/texlive/2023/texmf-dist/tex/latex/cyril
+) [62 <./figures/filestruktur.png>] (c:/texlive/2023/texmf-dist/tex/latex/cyril
 lic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-Underfull \hbox (badness 2951) in paragraph at lines 472--473
+Underfull \hbox (badness 2951) in paragraph at lines 500--501
 []\T2A/cmr/m/n/14.4 В це^^?лом, па^^?ра^^?мет^^?ры, за^^?да^^?ю^^?щие гео^^?мет
 ^^?рию че^^?рез биб^^?лио^^?те^^?ку
  []
@@ -2766,109 +2796,109 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [62]
+) [63]
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
-) [63] [64] [65]
-<figures/uiraw.png, id=1104, 778.91pt x 630.355pt>
+) [64] [65] [66]
+<figures/uiraw.png, id=1108, 778.91pt x 630.355pt>
 File: figures/uiraw.png Graphic file (type png)
 <use figures/uiraw.png>
-Package pdftex.def Info: figures/uiraw.png  used on input line 592.
+Package pdftex.def Info: figures/uiraw.png  used on input line 620.
 (pdftex.def)             Requested size: 469.47052pt x 379.928pt.
 
-[66]
-<figures/opendxf.png, id=1112, 759.83875pt x 625.33624pt>
+[67]
+<figures/opendxf.png, id=1117, 759.83875pt x 625.33624pt>
 File: figures/opendxf.png Graphic file (type png)
 <use figures/opendxf.png>
-Package pdftex.def Info: figures/opendxf.png  used on input line 605.
+Package pdftex.def Info: figures/opendxf.png  used on input line 633.
 (pdftex.def)             Requested size: 469.47052pt x 386.37814pt.
- [67 <./figures/uiraw.png (PNG copy)>]
-<figures/visualize.png, id=1121, 758.835pt x 624.3325pt>
+ [68 <./figures/uiraw.png (PNG copy)>]
+<figures/visualize.png, id=1125, 758.835pt x 624.3325pt>
 File: figures/visualize.png Graphic file (type png)
 <use figures/visualize.png>
-Package pdftex.def Info: figures/visualize.png  used on input line 614.
+Package pdftex.def Info: figures/visualize.png  used on input line 642.
 (pdftex.def)             Requested size: 469.47052pt x 386.26286pt.
- [68 <./figures/opendxf.png (PNG copy)>]
-<figures/selectfolder.png, id=1129, 758.835pt x 623.32875pt>
+ [69 <./figures/opendxf.png (PNG copy)>]
+<figures/selectfolder.png, id=1133, 758.835pt x 623.32875pt>
 File: figures/selectfolder.png Graphic file (type png)
 <use figures/selectfolder.png>
-Package pdftex.def Info: figures/selectfolder.png  used on input line 623.
+Package pdftex.def Info: figures/selectfolder.png  used on input line 651.
 (pdftex.def)             Requested size: 469.47052pt x 385.64186pt.
- [69 <./figures/visualize.png (PNG copy)>]
-<figures/all_arcs_autocad.png, id=1136, 1332.98pt x 620.3175pt>
+ [70 <./figures/visualize.png (PNG copy)>]
+<figures/all_arcs_autocad.png, id=1140, 1332.98pt x 620.3175pt>
 File: figures/all_arcs_autocad.png Graphic file (type png)
 <use figures/all_arcs_autocad.png>
-Package pdftex.def Info: figures/all_arcs_autocad.png  used on input line 640.
+Package pdftex.def Info: figures/all_arcs_autocad.png  used on input line 668.
 (pdftex.def)             Requested size: 469.47052pt x 218.46791pt.
- [70 <./figures/selectfolder.png (PNG copy)>]
-<figures/all_arcs_primiview.png, id=1143, 1927.2pt x 1031.855pt>
+ [71 <./figures/selectfolder.png (PNG copy)>]
+<figures/all_arcs_primiview.png, id=1147, 1927.2pt x 1031.855pt>
 File: figures/all_arcs_primiview.png Graphic file (type png)
 <use figures/all_arcs_primiview.png>
-Package pdftex.def Info: figures/all_arcs_primiview.png  used on input line 649
+Package pdftex.def Info: figures/all_arcs_primiview.png  used on input line 677
 .
 (pdftex.def)             Requested size: 469.47052pt x 251.35028pt.
- [71 <./figures/all_arcs_autocad.png (PNG copy)>]
-<figures/all_arcs_dxftype.png, id=1153, 1299.85625pt x 1256.695pt>
+ [72 <./figures/all_arcs_autocad.png (PNG copy)>]
+<figures/all_arcs_dxftype.png, id=1157, 1299.85625pt x 1256.695pt>
 File: figures/all_arcs_dxftype.png Graphic file (type png)
 <use figures/all_arcs_dxftype.png>
-Package pdftex.def Info: figures/all_arcs_dxftype.png  used on input line 660.
+Package pdftex.def Info: figures/all_arcs_dxftype.png  used on input line 688.
 (pdftex.def)             Requested size: 328.62793pt x 317.7013pt.
- [72 <./figures/all_arcs_primiview.png (PNG copy)>]
-<figures/all_arcs_txtxyr.png, id=1167, 1295.84125pt x 654.445pt>
+ [73 <./figures/all_arcs_primiview.png (PNG copy)>]
+<figures/all_arcs_txtxyr.png, id=1172, 1295.84125pt x 654.445pt>
 File: figures/all_arcs_txtxyr.png Graphic file (type png)
 <use figures/all_arcs_txtxyr.png>
-Package pdftex.def Info: figures/all_arcs_txtxyr.png  used on input line 673.
+Package pdftex.def Info: figures/all_arcs_txtxyr.png  used on input line 701.
 (pdftex.def)             Requested size: 328.62793pt x 165.96754pt.
- [73 <./figures/all_arcs_dxftype.png (PNG copy)>]
-<figures/all_arcs_svg.png, id=1177, 1440.88312pt x 787.44188pt>
+ [74 <./figures/all_arcs_dxftype.png (PNG copy)>]
+<figures/all_arcs_svg.png, id=1181, 1440.88312pt x 787.44188pt>
 File: figures/all_arcs_svg.png Graphic file (type png)
 <use figures/all_arcs_svg.png>
-Package pdftex.def Info: figures/all_arcs_svg.png  used on input line 684.
+Package pdftex.def Info: figures/all_arcs_svg.png  used on input line 712.
 (pdftex.def)             Requested size: 469.47052pt x 256.5644pt.
- [74 <./figures/all_arcs_txtxyr.png (PNG copy)> <./figures/all_arcs_svg.png>]
-<figures/all_arcs_json.png, id=1187, 1926.19624pt x 1039.885pt>
+ [75 <./figures/all_arcs_txtxyr.png (PNG copy)> <./figures/all_arcs_svg.png>]
+<figures/all_arcs_json.png, id=1191, 1926.19624pt x 1039.885pt>
 File: figures/all_arcs_json.png Graphic file (type png)
 <use figures/all_arcs_json.png>
-Package pdftex.def Info: figures/all_arcs_json.png  used on input line 695.
+Package pdftex.def Info: figures/all_arcs_json.png  used on input line 723.
 (pdftex.def)             Requested size: 469.47052pt x 253.44913pt.
-<figures/test10dxf.png, id=1193, 373.395pt x 661.47125pt>
+<figures/test10dxf.png, id=1197, 373.395pt x 661.47125pt>
 File: figures/test10dxf.png Graphic file (type png)
 <use figures/test10dxf.png>
-Package pdftex.def Info: figures/test10dxf.png  used on input line 709.
+Package pdftex.def Info: figures/test10dxf.png  used on input line 737.
 (pdftex.def)             Requested size: 140.84258pt x 249.50453pt.
-<figures/test10primiview.png, id=1194, 758.835pt x 620.3175pt>
+<figures/test10primiview.png, id=1198, 758.835pt x 620.3175pt>
 File: figures/test10primiview.png Graphic file (type png)
 <use figures/test10primiview.png>
-Package pdftex.def Info: figures/test10primiview.png  used on input line 713.
+Package pdftex.def Info: figures/test10primiview.png  used on input line 741.
 (pdftex.def)             Requested size: 281.68517pt x 230.2711pt.
-<figures/test10dxftype.png, id=1195, 1295.84125pt x 1293.83376pt>
+<figures/test10dxftype.png, id=1199, 1295.84125pt x 1293.83376pt>
 File: figures/test10dxftype.png Graphic file (type png)
 <use figures/test10dxftype.png>
-Package pdftex.def Info: figures/test10dxftype.png  used on input line 717.
+Package pdftex.def Info: figures/test10dxftype.png  used on input line 745.
 (pdftex.def)             Requested size: 187.78534pt x 187.49251pt.
-<figures/test10xyr.png, id=1196, 1215.54124pt x 1171.37625pt>
+<figures/test10xyr.png, id=1200, 1215.54124pt x 1171.37625pt>
 File: figures/test10xyr.png Graphic file (type png)
 <use figures/test10xyr.png>
-Package pdftex.def Info: figures/test10xyr.png  used on input line 721.
+Package pdftex.def Info: figures/test10xyr.png  used on input line 749.
 (pdftex.def)             Requested size: 187.78534pt x 180.95374pt.
-<figures/test10svg.png, id=1197, 1923.185pt x 1041.8925pt>
+<figures/test10svg.png, id=1201, 1923.185pt x 1041.8925pt>
 File: figures/test10svg.png Graphic file (type png)
 <use figures/test10svg.png>
-Package pdftex.def Info: figures/test10svg.png  used on input line 725.
+Package pdftex.def Info: figures/test10svg.png  used on input line 753.
 (pdftex.def)             Requested size: 187.78534pt x 101.73116pt.
-<figures/test10json.png, id=1198, 1925.1925pt x 1041.8925pt>
+<figures/test10json.png, id=1202, 1925.1925pt x 1041.8925pt>
 File: figures/test10json.png Graphic file (type png)
 <use figures/test10json.png>
-Package pdftex.def Info: figures/test10json.png  used on input line 729.
+Package pdftex.def Info: figures/test10json.png  used on input line 757.
 (pdftex.def)             Requested size: 187.78534pt x 101.61987pt.
-[75 <./figures/all_arcs_json.png (PNG copy)>]
+[76 <./figures/all_arcs_json.png (PNG copy)>]
 Overfull \vbox (7.09647pt too high) has occurred while \output is active []
 
 
-[76 <./figures/test10dxf.png (PNG copy)> <./figures/test10primiview.png (PNG co
+[77 <./figures/test10dxf.png (PNG copy)> <./figures/test10primiview.png (PNG co
 py)> <./figures/test10dxftype.png (PNG copy)> <./figures/test10xyr.png (PNG cop
 y)> <./figures/test10svg.png (PNG copy)> <./figures/test10json.png (PNG copy)>]
-[77]) [78]
+[78]) [79]
 \openout2 = `35_wirtsch.aux'.
 
  (./35_wirtsch.tex
@@ -2877,35 +2907,35 @@ Underfull \hbox (badness 3919) in paragraph at lines 1--1
 сти
  []
 
-[79
+[80
 
 
 
 
-] [80] [81] [82] [83] [84] [85]
-<figures/projektaufgaben.png, id=1279, 534.28178pt x 426.73714pt>
+] [81] [82] [83] [84] [85] [86]
+<figures/projektaufgaben.png, id=1283, 534.28178pt x 426.73714pt>
 File: figures/projektaufgaben.png Graphic file (type png)
 <use figures/projektaufgaben.png>
 Package pdftex.def Info: figures/projektaufgaben.png  used on input line 145.
 (pdftex.def)             Requested size: 469.47052pt x 374.98938pt.
- [86] [87 <./figures/projektaufgaben.png>]
-<figures/gantt.png, id=1292, 1013.50072pt x 368.23286pt>
+ [87] [88 <./figures/projektaufgaben.png>]
+<figures/gantt.png, id=1296, 1013.50072pt x 368.23286pt>
 File: figures/gantt.png Graphic file (type png)
 <use figures/gantt.png>
 Package pdftex.def Info: figures/gantt.png  used on input line 176.
 (pdftex.def)             Requested size: 657.25586pt x 238.80911pt.
 
-[88]
+[89]
 Overfull \vbox (24.45439pt too high) has occurred while \output is active []
 
 
-[89 <./figures/gantt.png>] [90]
-<figures/netzkompakt.png, id=1311, 562.35094pt x 272.51813pt>
+[90 <./figures/gantt.png>] [91]
+<figures/netzkompakt.png, id=1316, 562.35094pt x 272.51813pt>
 File: figures/netzkompakt.png Graphic file (type png)
 <use figures/netzkompakt.png>
 Package pdftex.def Info: figures/netzkompakt.png  used on input line 227.
 (pdftex.def)             Requested size: 469.47052pt x 227.50816pt.
- [91]
+ [92]
 Overfull \hbox (5.73271pt too wide) in paragraph at lines 238--238
 []|\T2A/cmr/m/n/14.4 Продолж. 
  []
@@ -2961,7 +2991,7 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 245--270
 [] [] [] [] 
  []
 
-[92 <./figures/netzkompakt.png>] [93]
+[93 <./figures/netzkompakt.png>] [94]
 Underfull \hbox (badness 10000) in paragraph at lines 278--278
 []|\T2A/cmr/m/n/14.4 Предш.
  []
@@ -2991,143 +3021,143 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 285--307
 [] [] [] 
  []
 
-[94] [95]
-<figures/restable.png, id=1347, 887.315pt x 757.83125pt>
+[95] [96]
+<figures/restable.png, id=1351, 887.315pt x 757.83125pt>
 File: figures/restable.png Graphic file (type png)
 <use figures/restable.png>
 Package pdftex.def Info: figures/restable.png  used on input line 322.
 (pdftex.def)             Requested size: 469.47052pt x 400.95483pt.
- [96] [97 <./figures/restable.png (PNG copy)>]
-Overfull \hbox (25.19998pt too wide) in alignment at lines 819--826
+ [97] [98 <./figures/restable.png (PNG copy)>]
+Overfull \hbox (25.19998pt too wide) in alignment at lines 822--829
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 826--828
+Overfull \hbox (25.19998pt too wide) in alignment at lines 829--831
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 828--830
+Overfull \hbox (25.19998pt too wide) in alignment at lines 831--833
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 830--832
+Overfull \hbox (25.19998pt too wide) in alignment at lines 833--835
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 832--839
+Overfull \hbox (25.19998pt too wide) in alignment at lines 835--842
 [] [] 
  []
 
-[98] [99]
-Overfull \hbox (12.0pt too wide) in alignment at lines 871--878
+[99] [100]
+Overfull \hbox (12.0pt too wide) in alignment at lines 886--893
 [] [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 878--880
+Overfull \hbox (12.0pt too wide) in alignment at lines 893--895
 [] [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 880--882
+Overfull \hbox (12.0pt too wide) in alignment at lines 895--897
 [] [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 882--884
+Overfull \hbox (12.0pt too wide) in alignment at lines 897--899
 [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 887--887
+Underfull \hbox (badness 10000) in paragraph at lines 902--902
 []|\T2A/cmr/m/n/14.4 Зарплата тех^^?но^^?ло^^?га,
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 889--889
+Underfull \hbox (badness 2443) in paragraph at lines 904--904
 []|\T2A/cmr/m/n/14.4 Время на на^^?пи^^?са^^?ние
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 893--893
+Underfull \hbox (badness 2865) in paragraph at lines 908--908
 \T2A/cmr/m/n/14.4 ва^^?ния CAM-^^?систе^^?мы,
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 884--895
+Overfull \hbox (12.0pt too wide) in alignment at lines 899--910
 [] [] [] 
  []
 
-[100] [101] [102] [103]
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1056--1064
+[101] [102] [103] [104]
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1071--1079
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1064--1066
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1079--1081
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1066--1068
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1081--1083
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1068--1070
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1083--1085
 [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1086
 []|\T2A/cmr/m/n/14.4 Вариант
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1086
 []|\T2A/cmr/m/n/14.4 Вариант
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1075--1075
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1090--1090
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1079--1079
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1094--1094
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1081--1081
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1096--1096
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 1083--1083
+Underfull \hbox (badness 2726) in paragraph at lines 1098--1098
 []|\T2A/cmr/m/n/14.4 Срок оку^^?па^^?е^^?мо^^?сти до^^?пол^^?ни^^?
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1085--1085
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1100--1100
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 1087--1087
+Underfull \hbox (badness 4181) in paragraph at lines 1102--1102
 []|\T2A/cmr/m/n/14.4 Годовой эко^^?но^^?ми^^?че^^?ский эф^^?
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1070--1089
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1085--1104
 [] [] [] [] [] 
  []
 
-[104] [105]) [106]
+[105] [106]) [107]
 \openout2 = `80-conclusion.aux'.
 
  (./80-conclusion.tex
@@ -3136,18 +3166,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 ^?ма^^?ты
  []
 
-[107
+[108
 
 
 
 
 ]
-Underfull \hbox (badness 1019) in paragraph at lines 30--31
+Underfull \hbox (badness 1019) in paragraph at lines 33--34
 \T2A/cmr/m/n/14.4 FRW, FRT, CDW, CDT; DSS SolidWorks-^^?фор^^?ма^^?тов: DRW, SL
 DDRW,
  []
 
-) [108]
+) [109]
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./00_vkr.bbl
@@ -3157,39 +3187,39 @@ a of graph^^?ics file for^^?mats /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--39
+Underfull \hbox (badness 10000) in paragraph at lines 31--41
 []\T2A/cmr/m/it/14.4 Уколов, Станислав Сергеевич\T2A/cmr/m/n/14.4 . Разработка 
 алгоритмов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--52
+Underfull \hbox (badness 10000) in paragraph at lines 44--54
 []\T2A/cmr/m/it/14.4 Петунин, Александр Александрович\T2A/cmr/m/n/14.4 . Методо
 логические и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--52
+Underfull \hbox (badness 10000) in paragraph at lines 44--54
 \T2A/cmr/m/n/14.4 теоретические основы автоматизации проектирования раскроя
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--52
+Underfull \hbox (badness 10000) in paragraph at lines 44--54
 \T2A/cmr/m/n/14.4 листовых материалов на машинах с числовым программным
  []
 
 
-Underfull \hbox (badness 3919) in paragraph at lines 42--52
+Underfull \hbox (badness 3919) in paragraph at lines 44--54
 \T2A/cmr/m/n/14.4 управлением: диссертация на соискание учјной степени доктора
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 65--70
+Underfull \hbox (badness 5696) in paragraph at lines 67--72
 []\T2A/cmr/m/it/14.4 Костин, Л.А. \T2A/cmr/m/n/14.4 Квалификационный справочник
  должностей
  []
 
-)) [109
+)) [110
 
 
 
@@ -3206,7 +3236,7 @@ Underfull \hbox (badness 2197) in paragraph at lines 4--4
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs_dxftype.txt [110
+(./listings/all_arcs_dxftype.txt [111
 
 
 
@@ -3215,16 +3245,16 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs_xyr.txt [111])
+(./listings/all_arcs_xyr.txt [112])
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs.svg [112] [113] [114] [115])
+(./listings/all_arcs.svg [113] [114] [115] [116])
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs.json [116] [117] [118] [119] [120] [121] [122] [123]
-[124])) [125] (./00_vkr.aux (./05_ref.aux) (./10_def.aux) (./15_abkuerz.aux)
+(./listings/all_arcs.json [117] [118] [119] [120] [121] [122] [123] [124]
+[125])) [126] (./00_vkr.aux (./05_ref.aux) (./10_def.aux) (./15_abkuerz.aux)
 (./20_einfuehr.aux) (./25_aktuell.aux) (./30_entwickl.aux) (./35_wirtsch.aux)
 (./80-conclusion.aux) (./81-biblio.aux) (./90-appendix1.aux))
 
@@ -3238,9 +3268,9 @@ Package rerunfilecheck Info: File `00_vkr.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  45684 strings out of 476047
- 1007653 string characters out of 5794246
+ 1007646 string characters out of 5794246
  2003242 words of memory out of 5000000
- 63919 multiletter control sequences out of 15000+600000
+ 63918 multiletter control sequences out of 15000+600000
  524701 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,21n,111p,2029b,2543s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3262,10 +3292,10 @@ super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm
 c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive
 /2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/2023/texm
 f-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on 00_vkr.pdf (125 pages, 1785923 bytes).
+Output written on 00_vkr.pdf (126 pages, 1787462 bytes).
 PDF statistics:
- 2390 PDF objects out of 2487 (max. 8388607)
- 2154 compressed objects within 22 object streams
- 1251 named destinations out of 1440 (max. 500000)
+ 2394 PDF objects out of 2487 (max. 8388607)
+ 2157 compressed objects within 22 object streams
+ 1252 named destinations out of 1440 (max. 500000)
  604 words of extra memory for PDF output out of 10000 (max. 10000000)
 

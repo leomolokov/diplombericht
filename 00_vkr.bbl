@@ -34,7 +34,9 @@ Scalable Vector Graphics (SVG) Tiny 1.2 Specification~/ Ola~Andersson,
   управляющих программ машин листовой
   резки с ЧПУ: диссертация на соискание
   учёной степени кандидата технических
-  наук: 05.13.12: Ph.D. thesis~/ б. и. ---
+  наук: 05.13.12: Ph.D. thesis~/ Уральский федеральный
+  университет имени первого Президента
+  России Б.Н. Ельцина. ---
 \newblock 2021.
 
 \bibitem{petunin}
@@ -58,7 +60,7 @@ Scalable Vector Graphics (SVG) Tiny 1.2 Specification~/ Ola~Andersson,
 \bibitem{lutz2001programming}
 \selectlanguageifdefined{english}
 \BibEmph{Lutz,~Mark}. Programming Python~/ Mark~Lutz. ---
-\newblock " O'Reilly Media, Inc.", 2001.
+\newblock O'Reilly, 2001.
 
 \bibitem{qualification}
 \selectlanguageifdefined{english}
@@ -73,7 +75,7 @@ Scalable Vector Graphics (SVG) Tiny 1.2 Specification~/ Ola~Andersson,
 \BibEmph{Кларк,~У.} Графики Ганта. Учёт и
   планирование работы. 5-е издание~/
   У.~Кларк~// \BibEmph{Москва:{\guillemotleft}Техника
-  управления{\guillemotleft}}. ---
+  управления{\guillemotright}}. ---
 \newblock 1931.
 
 \end{thebibliography}
