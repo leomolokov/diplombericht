@@ -31,11 +31,11 @@
 \contentsline {subsection}{\numberline {3.3.1}Диаграмма Ганта}{88}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Сетевой график}{91}{subsection.3.3.2}%
 \contentsline {section}{\numberline {3.4}Расчёт стоимости проекта}{97}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Сравнительная экономическая эффективность}{98}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Исходные данные}{99}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Расчёты и анализ}{102}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Выводы по результатам расчётов.}{106}{subsection.3.5.3}%
-\contentsline {section}{\numberline {3.6}Выводы по главе \ref {cha:wirtsch}}{107}{section.3.6}%
-\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{108}{section*.29}%
-\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{110}{section*.30}%
-\contentsline {chapter}{\numberline {\CYRA }Текстовые результаты конвертации}{111}{appendix.A}%
+\contentsline {section}{\numberline {3.5}Сравнительная экономическая эффективность}{102}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Исходные данные}{102}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Расчёты и анализ}{105}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Выводы по результатам расчётов.}{109}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Выводы по главе \ref {cha:wirtsch}}{110}{section.3.6}%
+\contentsline {chapter}{\CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{111}{section*.29}%
+\contentsline {chapter}{\CYRS \cyrp \cyri \cyrs \cyro \cyrk ~ \cyri \cyrs \cyrp \cyro \cyrl \cyrsftsn \cyrz \cyro \cyrv \cyra \cyrn \cyrn \cyrery \cyrh ~ \cyri \cyrs \cyrt \cyro \cyrch \cyrn \cyri \cyrk \cyro \cyrv }{113}{section*.30}%
+\contentsline {chapter}{\numberline {\CYRA }Текстовые результаты конвертации}{114}{appendix.A}%

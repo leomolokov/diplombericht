@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  29 MAY 2023 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.7)  30 MAY 2023 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3025,139 +3025,150 @@ Overfull \hbox (12.0pt too wide) in alignment at lines 285--307
 <figures/restable.png, id=1351, 887.315pt x 757.83125pt>
 File: figures/restable.png Graphic file (type png)
 <use figures/restable.png>
-Package pdftex.def Info: figures/restable.png  used on input line 322.
+Package pdftex.def Info: figures/restable.png  used on input line 327.
 (pdftex.def)             Requested size: 469.47052pt x 400.95483pt.
- [97] [98 <./figures/restable.png (PNG copy)>]
-Overfull \hbox (25.19998pt too wide) in alignment at lines 822--829
+ [97] [98 <./figures/restable.png (PNG copy)>] [99]
+Overfull \hbox (8.57272pt too wide) detected at line 889
+[][][][][]
+ []
+
+[100]
+Underfull \hbox (badness 1009) in paragraph at lines 910--911
+\T2A/cmr/m/n/14.4 Та^^?риф Мо^^?биль^^?ных Те^^?ле^^?Си^^?стем (МТС) Ин^^?тер^^
+?не^^?та со ско^^?ро^^?стью 1000
+ []
+
+[101]
+Overfull \hbox (25.19998pt too wide) in alignment at lines 960--967
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 829--831
+Overfull \hbox (25.19998pt too wide) in alignment at lines 967--969
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 831--833
+Overfull \hbox (25.19998pt too wide) in alignment at lines 969--971
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 833--835
+Overfull \hbox (25.19998pt too wide) in alignment at lines 971--973
 [] [] 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in alignment at lines 835--842
+Overfull \hbox (25.19998pt too wide) in alignment at lines 973--980
 [] [] 
  []
 
-[99] [100]
-Overfull \hbox (12.0pt too wide) in alignment at lines 886--893
+[102] [103]
+Overfull \hbox (12.0pt too wide) in alignment at lines 1024--1031
 [] [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 893--895
+Overfull \hbox (12.0pt too wide) in alignment at lines 1031--1033
 [] [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 895--897
+Overfull \hbox (12.0pt too wide) in alignment at lines 1033--1035
 [] [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 897--899
+Overfull \hbox (12.0pt too wide) in alignment at lines 1035--1037
 [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 902--902
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
 []|\T2A/cmr/m/n/14.4 Зарплата тех^^?но^^?ло^^?га,
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 904--904
+Underfull \hbox (badness 2443) in paragraph at lines 1042--1042
 []|\T2A/cmr/m/n/14.4 Время на на^^?пи^^?са^^?ние
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 908--908
+Underfull \hbox (badness 2865) in paragraph at lines 1046--1046
 \T2A/cmr/m/n/14.4 ва^^?ния CAM-^^?систе^^?мы,
  []
 
 
-Overfull \hbox (12.0pt too wide) in alignment at lines 899--910
+Overfull \hbox (12.0pt too wide) in alignment at lines 1037--1048
 [] [] [] 
  []
 
-[101] [102] [103] [104]
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1071--1079
+[104] [105] [106] [107]
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1209--1217
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1079--1081
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1217--1219
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1081--1083
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1219--1221
 [] [] [] [] [] 
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1083--1085
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1221--1223
 [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1086--1086
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1224
 []|\T2A/cmr/m/n/14.4 Вариант
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1086--1086
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1224
 []|\T2A/cmr/m/n/14.4 Вариант
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1090--1090
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1228--1228
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1094--1094
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1232--1232
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1096--1096
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1234--1234
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 1098--1098
+Underfull \hbox (badness 2726) in paragraph at lines 1236--1236
 []|\T2A/cmr/m/n/14.4 Срок оку^^?па^^?е^^?мо^^?сти до^^?пол^^?ни^^?
  []
 
 
-Overfull \hbox (2.03342pt too wide) in paragraph at lines 1100--1100
+Overfull \hbox (2.03342pt too wide) in paragraph at lines 1238--1238
 []|\T2A/cmr/m/n/14.4 руб.| 
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 1102--1102
+Underfull \hbox (badness 4181) in paragraph at lines 1240--1240
 []|\T2A/cmr/m/n/14.4 Годовой эко^^?но^^?ми^^?че^^?ский эф^^?
  []
 
 
-Overfull \hbox (16.59271pt too wide) in alignment at lines 1085--1104
+Overfull \hbox (16.59271pt too wide) in alignment at lines 1223--1242
 [] [] [] [] [] 
  []
 
-[105] [106]) [107]
+[108] [109]) [110]
 \openout2 = `80-conclusion.aux'.
 
  (./80-conclusion.tex
@@ -3166,7 +3177,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 ^?ма^^?ты
  []
 
-[108
+[111
 
 
 
@@ -3177,7 +3188,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 33--34
 DDRW,
  []
 
-) [109]
+) [112]
 \openout2 = `81-biblio.aux'.
 
  (./81-biblio.tex (./00_vkr.bbl
@@ -3219,7 +3230,7 @@ Underfull \hbox (badness 5696) in paragraph at lines 67--72
  должностей
  []
 
-)) [110
+)) [113
 
 
 
@@ -3236,7 +3247,7 @@ Underfull \hbox (badness 2197) in paragraph at lines 4--4
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs_dxftype.txt [111
+(./listings/all_arcs_dxftype.txt [114
 
 
 
@@ -3245,16 +3256,16 @@ File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs_xyr.txt [112])
+(./listings/all_arcs_xyr.txt [115])
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs.svg [113] [114] [115] [116])
+(./listings/all_arcs.svg [116] [117] [118] [119])
 (c:/texlive/2023/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2022/06/11 v1.0e Input encoding file
 )
-(./listings/all_arcs.json [117] [118] [119] [120] [121] [122] [123] [124]
-[125])) [126] (./00_vkr.aux (./05_ref.aux) (./10_def.aux) (./15_abkuerz.aux)
+(./listings/all_arcs.json [120] [121] [122] [123] [124] [125] [126] [127]
+[128])) [129] (./00_vkr.aux (./05_ref.aux) (./10_def.aux) (./15_abkuerz.aux)
 (./20_einfuehr.aux) (./25_aktuell.aux) (./30_entwickl.aux) (./35_wirtsch.aux)
 (./80-conclusion.aux) (./81-biblio.aux) (./90-appendix1.aux))
 
@@ -3267,10 +3278,10 @@ Package rerunfilecheck Info: File `00_vkr.out' has not changed.
 (rerunfilecheck)             Checksum: D6EF00D1B383F79EFF41B63F2703C996;11528.
  ) 
 Here is how much of TeX's memory you used:
- 45684 strings out of 476047
- 1007646 string characters out of 5794246
+ 45703 strings out of 476047
+ 1007903 string characters out of 5794246
  2003242 words of memory out of 5000000
- 63918 multiletter control sequences out of 15000+600000
+ 63920 multiletter control sequences out of 15000+600000
  524701 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,21n,111p,2029b,2543s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3292,10 +3303,10 @@ super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm
 c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive
 /2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/2023/texm
 f-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on 00_vkr.pdf (126 pages, 1787462 bytes).
+Output written on 00_vkr.pdf (129 pages, 1800650 bytes).
 PDF statistics:
- 2394 PDF objects out of 2487 (max. 8388607)
- 2157 compressed objects within 22 object streams
- 1252 named destinations out of 1440 (max. 500000)
+ 2429 PDF objects out of 2487 (max. 8388607)
+ 2188 compressed objects within 22 object streams
+ 1269 named destinations out of 1440 (max. 500000)
  604 words of extra memory for PDF output out of 10000 (max. 10000000)
 
